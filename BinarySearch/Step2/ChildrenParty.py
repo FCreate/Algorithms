@@ -21,8 +21,18 @@ while l+1 < r:
         l = mid
 print(l+1)
 numberOfBaloons = []
+cnt = 0
 for worker in workers:
     baloon = worker[1] * ((l+1) // (worker[0] * worker[1] + worker[2])) + min(
         ((l+1) % (worker[0] * worker[1] + worker[2])) / worker[0], worker[1])
-    numberOfBaloons.append(int(baloon))
+    baloon = int(baloon)
+    if cnt + baloon <= m:
+        cnt += baloon
+        numberOfBaloons.append(int(baloon))
+    else:
+        if cnt == m:
+            numberOfBaloons.append(0)
+        else:
+            numberOfBaloons.append(m-cnt)
+            cnt = m
 print(" ".join(list(map(str, numberOfBaloons))))
