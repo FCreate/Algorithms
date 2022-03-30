@@ -1,7 +1,9 @@
-def check(n, x, y, mid):
-    mid -= min(x, y)
-    numberOfPapers = mid // x + mid//y
-    if numberOfPapers + 1 >= n:
+def check(m, workers, T):
+    cnt = 0
+    for worker in workers:
+        baloon = worker[1] * (T//(worker[0]* worker[1] + worker[2])) + min((T%(worker[0]*worker[1]+worker[2]))/worker[0], worker[1])
+        cnt += int(baloon)
+    if cnt >= m:
         return True
     return False
 
@@ -10,11 +12,17 @@ workers = []
 for _ in range(n):
     workers.append(list(map(int, input().split())))
 
-l, r = 0, n*max(x,y)
+l, r = -1, 1500000000000000000000
 while l+1 < r:
     mid = l + (r-l) // 2
-    if check(n, x, y, mid):
+    if check(m, workers, mid):
         r = mid
     else:
         l = mid
 print(l+1)
+numberOfBaloons = []
+for worker in workers:
+    baloon = worker[1] * ((l+1) // (worker[0] * worker[1] + worker[2])) + min(
+        ((l+1) % (worker[0] * worker[1] + worker[2])) / worker[0], worker[1])
+    numberOfBaloons.append(int(baloon))
+print(" ".join(list(map(str, numberOfBaloons))))
