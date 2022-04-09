@@ -5,10 +5,13 @@
 #         self.left = left
 #         self.right = right
 class Solution:
-    def invertTree(self, root: Optional[TreeNode]) -> Optional[TreeNode]:
-        if root is None:
-            return None
-        node = TreeNode(root.val)
-        node.left = self.invertTree(root.right)
-        node.right = self.invertTree(root.left)
-        return node
+    def sortedArrayToBST(self, nums: List[int]) -> Optional[TreeNode]:
+        def helper(left, right):
+            if right < left:
+                return None
+            p = (left+right) // 2
+            node = TreeNode(nums[p])
+            node.left = helper(left, p-1)
+            node.right = helper(p+1, right)
+            return node
+        return helper(0, len(nums)-1)
