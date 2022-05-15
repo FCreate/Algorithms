@@ -11,109 +11,124 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Algorithms$binarySearchRight.coverage" NAME="binarySearchRight Coverage Results" MODIFIED="1648380572942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinarySearch" />
+    <SUITE FILE_PATH="coverage/Algorithms$kthSmallestElement.coverage" NAME="kthSmallestElement Coverage Results" MODIFIED="1652370848318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
+    <SUITE FILE_PATH="coverage/Algorithms$numberOfSteps.coverage" NAME="numberOfSteps Coverage Results" MODIFIED="1652405376873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
     <SUITE FILE_PATH="coverage/Algorithms$equation.coverage" NAME="equation Coverage Results" MODIFIED="1648639683889" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinarySearch/Step2" />
+    <SUITE FILE_PATH="coverage/Algorithms$shortestPath.coverage" NAME="shortestPath Coverage Results" MODIFIED="1650792577905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graphs" />
+    <SUITE FILE_PATH="coverage/Algorithms$constanzesMachine.coverage" NAME="constanzesMachine Coverage Results" MODIFIED="1652201529792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
     <SUITE FILE_PATH="coverage/Algorithms$VerySimpleProblem.coverage" NAME="VerySimpleProblem Coverage Results" MODIFIED="1648628476311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinarySearch/Step2" />
     <SUITE FILE_PATH="coverage/Algorithms$goblin2deque.coverage" NAME="goblin2deque Coverage Results" MODIFIED="1639153180011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithms$ChildrenParty.coverage" NAME="ChildrenParty Coverage Results" MODIFIED="1648634911580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinarySearch/Step2" />
+    <SUITE FILE_PATH="coverage/Algorithms$numberOfConnectedComponentsInUndirectedGraph.coverage" NAME="numberOfConnectedComponentsInUndirectedGraph Coverage Results" MODIFIED="1650734085358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graphs" />
+    <SUITE FILE_PATH="coverage/Algorithms$alienDictionary.coverage" NAME="alienDictionary Coverage Results" MODIFIED="1651701574579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graphs" />
+    <SUITE FILE_PATH="coverage/Algorithms$Problem9.coverage" NAME="Problem9 Coverage Results" MODIFIED="1652540182802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Yandex" />
+    <SUITE FILE_PATH="coverage/Interview$ex.coverage" NAME="ex Coverage Results" MODIFIED="1632124954237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms$justEatIt.coverage" NAME="justEatIt Coverage Results" MODIFIED="1652219856530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
+    <SUITE FILE_PATH="coverage/Algorithms$sameDifferences.coverage" NAME="sameDifferences Coverage Results" MODIFIED="1652219875431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
+    <SUITE FILE_PATH="coverage/Algorithms$ex__1_.coverage" NAME="ex (1) Coverage Results" MODIFIED="1639068248164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms$ex.coverage" NAME="ex Coverage Results" MODIFIED="1638372894991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms$fastSearch.coverage" NAME="fastSearch Coverage Results" MODIFIED="1648381882079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinarySearch/Step1" />
+    <SUITE FILE_PATH="coverage/Algorithms$kefaPark.coverage" NAME="kefaPark Coverage Results" MODIFIED="1650742308642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graphs" />
     <SUITE FILE_PATH="coverage/Algorithms$binarySearch.coverage" NAME="binarySearch Coverage Results" MODIFIED="1648378989586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinarySearch" />
     <SUITE FILE_PATH="coverage/Algorithms$fishers.coverage" NAME="fishers Coverage Results" MODIFIED="1648378936529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Interview$ex.coverage" NAME="ex Coverage Results" MODIFIED="1632124954237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithms$linkedlist.coverage" NAME="linkedlist Coverage Results" MODIFIED="1639145154598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Algorithms$policePosts.coverage" NAME="policePosts Coverage Results" MODIFIED="1650752261621" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Graphs" />
+    <SUITE FILE_PATH="coverage/Algorithms$shovelsAndSwords.coverage" NAME="shovelsAndSwords Coverage Results" MODIFIED="1652198499756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Arrays" />
     <SUITE FILE_PATH="coverage/Algorithms$Rectangles.coverage" NAME="Rectangles Coverage Results" MODIFIED="1648386208995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinarySearch/Step2" />
-    <SUITE FILE_PATH="coverage/Algorithms$ex__1_.coverage" NAME="ex (1) Coverage Results" MODIFIED="1639068248164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithms$Ropes.coverage" NAME="Ropes Coverage Results" MODIFIED="1648387033521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinarySearch/Step2" />
-    <SUITE FILE_PATH="coverage/Algorithms$ex.coverage" NAME="ex Coverage Results" MODIFIED="1638372894991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Algorithms$binarySearchLeft.coverage" NAME="binarySearchLeft Coverage Results" MODIFIED="1648380186851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinarySearch" />
-    <SUITE FILE_PATH="coverage/Algorithms$fastSearch.coverage" NAME="fastSearch Coverage Results" MODIFIED="1648381882079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/BinarySearch/Step1" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Algorithms" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="countGoodNodesInBinaryTree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinaryTree/countGoodNodesInBinaryTree.py">
+      <file leaf-file-name="validParentheses.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blind75/String/validParentheses.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
+            <state relative-caret-position="306">
+              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="uniqueBST.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinaryTree/uniqueBST.py">
+      <file leaf-file-name="validPalindrome.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blind75/String/validPalindrome.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+            <state relative-caret-position="119">
+              <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pathSum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinaryTree/pathSum.py">
+      <file leaf-file-name="longestPalindromicSubstring.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blind75/String/longestPalindromicSubstring.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="170">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mergeBinaryTrees.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinaryTree/mergeBinaryTrees.py">
+      <file leaf-file-name="palindromicSubstrings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blind75/String/palindromicSubstrings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            <state relative-caret-position="17">
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="encodeAndDecodeStrings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blind75/String/encodeAndDecodeStrings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="maximumDepthOfBinaryTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blind75/Tree/maximumDepthOfBinaryTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="103" selection-start-line="9" selection-start-column="103" selection-end-line="9" selection-end-column="103" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sameTree.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blind75/Tree/sameTree.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="invertBinaryTree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinaryTree/invertBinaryTree.py">
+        <entry file="file://$PROJECT_DIR$/Blind75/Tree/invertBinaryTree.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            <state relative-caret-position="238">
+              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="convertSortedArrayToBST.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinaryTree/convertSortedArrayToBST.py">
+      <file leaf-file-name="binaryTreeMaximumPathSum.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Blind75/Tree/binaryTreeMaximumPathSum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+            <state relative-caret-position="17">
+              <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="binaryTreeLevelOrderTraversal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinaryTree/binaryTreeLevelOrderTraversal.py">
+      <file leaf-file-name="BTLevelOrderTraversal.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Blind75/Tree/BTLevelOrderTraversal.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="binaryTreeRightSideView.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinaryTree/binaryTreeRightSideView.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="63" lean-forward="true" selection-start-column="63" selection-end-column="63" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="kthSmallestElementInBST.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BinaryTree/kthSmallestElementInBST.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="66" selection-start-column="66" selection-end-column="66" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="binaryTreeMaximumPathSum.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/BinaryTree/binaryTreeMaximumPathSum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="65" selection-start-column="65" selection-end-column="65" />
+            <state relative-caret-position="391">
+              <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -136,6 +151,9 @@
       <find>**</find>
       <find>i +=</find>
     </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Mikhail\Algorithms</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="ROOT_SYNC" value="DONT_SYNC" />
@@ -144,35 +162,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/ex.py" />
-        <option value="$PROJECT_DIR$/ex.py" />
-        <option value="$PROJECT_DIR$/linkedlist.py" />
-        <option value="$PROJECT_DIR$/goblin2deque.py" />
-        <option value="$PROJECT_DIR$/goblin.py" />
-        <option value="$PROJECT_DIR$/fishers.py" />
-        <option value="$PROJECT_DIR$/BinarySearch/binarySearch.py" />
-        <option value="$PROJECT_DIR$/BinarySearch/binarySearchLeft.py" />
-        <option value="$PROJECT_DIR$/BinarySearch/binarySearchRight.py" />
-        <option value="$PROJECT_DIR$/BinarySearch/Step1/binarySearchRight.py" />
-        <option value="$PROJECT_DIR$/BinarySearch/Step1/fastSearch.py" />
-        <option value="$PROJECT_DIR$/BinarySearch/Step2/ropes.py" />
-        <option value="$PROJECT_DIR$/BinarySearch/Step2/Rectangles.py" />
-        <option value="$PROJECT_DIR$/BinarySearch/Step2/Ropes.py" />
-        <option value="$PROJECT_DIR$/BinarySearch/Step2/VerySimpleProblem.py" />
-        <option value="$PROJECT_DIR$/BinarySearch/Step2/ChildrenParty.py" />
-        <option value="$PROJECT_DIR$/BinarySearch/Step2/equation.py" />
-        <option value="$PROJECT_DIR$/BinaryTree/balancedBinaryTree.py" />
-        <option value="$PROJECT_DIR$/BinaryTree/countGoodNodesInBinaryTree.py" />
-        <option value="$PROJECT_DIR$/BinaryTree/uniqueBST.py" />
-        <option value="$PROJECT_DIR$/BinaryTree/pathSum.py" />
-        <option value="$PROJECT_DIR$/BinaryTree/mergeBinaryTrees.py" />
-        <option value="$PROJECT_DIR$/BinaryTree/invertBinaryTree.py" />
-        <option value="$PROJECT_DIR$/BinaryTree/convertSortedArrayToBST.py" />
-        <option value="$PROJECT_DIR$/BinaryTree/binaryTreeLevelOrderTraversal.py" />
-        <option value="$PROJECT_DIR$/BinaryTree/binaryTreeRightSideView.py" />
-        <option value="$PROJECT_DIR$/BinaryTree/kthSmallestElementInBST.py" />
-        <option value="$PROJECT_DIR$/BinaryTree/binaryTreeMaximumPathSUm.py" />
-        <option value="$PROJECT_DIR$/BinaryTree/binaryTreeMaximumPathSum.py" />
+        <option value="$PROJECT_DIR$/Blind75/DynamicProgramming/uniquePaths.py" />
+        <option value="$PROJECT_DIR$/Blind75/DynamicProgramming/jumpGame.py" />
+        <option value="$PROJECT_DIR$/Blind75/Binary/sumOfTwoIntegers.py" />
+        <option value="$PROJECT_DIR$/Blind75/Binary/numberOf1Bits.py" />
+        <option value="$PROJECT_DIR$/Blind75/Binary/countingBits.py" />
+        <option value="$PROJECT_DIR$/Blind75/Binary/missingNumber.py" />
+        <option value="$PROJECT_DIR$/Blind75/Binary/reverseBits.py" />
+        <option value="$PROJECT_DIR$/Blind75/Graph/numberOfConnectedComponents.py" />
+        <option value="$PROJECT_DIR$/Blind75/Graph/cloneGraph.py" />
+        <option value="$PROJECT_DIR$/Blind75/Graph/courseSchedule.py" />
+        <option value="$PROJECT_DIR$/Blind75/Graph/pacificAtlanticWaterFlow.py" />
+        <option value="$PROJECT_DIR$/Blind75/Graph/numberOfIslands.py" />
+        <option value="$PROJECT_DIR$/Blind75/Graph/longestConsecutiveSequence.py" />
+        <option value="$PROJECT_DIR$/Blind75/Graph/alienDictionary.py" />
+        <option value="$PROJECT_DIR$/Blind75/Graph/numberOfConnectedComponentsInAnUndirectedGraph.py" />
+        <option value="$PROJECT_DIR$/Blind75/Graph/graphValidTree.py" />
+        <option value="$PROJECT_DIR$/Blind75/Heap/topKFrequentElements.py" />
+        <option value="$PROJECT_DIR$/Blind75/Heap/mergeKSortedLists.py" />
+        <option value="$PROJECT_DIR$/Blind75/Heap/findMedianFromDataStream.py" />
+        <option value="$PROJECT_DIR$/Blind75/Interval/insertInterval.py" />
+        <option value="$PROJECT_DIR$/Blind75/Interval/mergeIntervals.py" />
+        <option value="$PROJECT_DIR$/Blind75/Interval/nonOverlappingIntervals.py" />
+        <option value="$PROJECT_DIR$/Blind75/Interval/mergeIntervals2.py" />
+        <option value="$PROJECT_DIR$/Blind75/Interval/meetingRooms.py" />
+        <option value="$PROJECT_DIR$/Blind75/LinkedList/reverseLinkedLisrt.py" />
+        <option value="$PROJECT_DIR$/Blind75/LinkedList/reverseLinkedList.py" />
+        <option value="$PROJECT_DIR$/Blind75/LinkedList/linkedListCycle.py" />
+        <option value="$PROJECT_DIR$/Blind75/LinkedList/mergeTwoSortedLists.py" />
+        <option value="$PROJECT_DIR$/Blind75/LinkedList/mergeKSortedLists.py" />
+        <option value="$PROJECT_DIR$/Blind75/LinkedList/removeNthNodeFromEndOfList.py" />
+        <option value="$PROJECT_DIR$/Blind75/LinkedList/reorderList.py" />
+        <option value="$PROJECT_DIR$/Blind75/Matrix/setMatrixZeroes.py" />
+        <option value="$PROJECT_DIR$/Blind75/Matrix/spiralMatrix.py" />
+        <option value="$PROJECT_DIR$/Blind75/Matrix/rotateImage.py" />
+        <option value="$PROJECT_DIR$/Blind75/Matrix/wordSearch.py" />
+        <option value="$PROJECT_DIR$/Blind75/String/longestSubstringWithoutRepeatingCharacters.py" />
+        <option value="$PROJECT_DIR$/Blind75/String/longestRepeatingCharacterReplacement.py" />
+        <option value="$PROJECT_DIR$/Blind75/String/minimumWindowSubstring.py" />
+        <option value="$PROJECT_DIR$/Blind75/String/validAnagram.py" />
+        <option value="$PROJECT_DIR$/Blind75/String/groupAnagrams.py" />
+        <option value="$PROJECT_DIR$/Blind75/String/validParentheses.py" />
+        <option value="$PROJECT_DIR$/Blind75/String/validPalindrome.py" />
+        <option value="$PROJECT_DIR$/Blind75/String/longestPalindromicSubstring.py" />
+        <option value="$PROJECT_DIR$/Blind75/String/palindromicSubstringsd.py" />
+        <option value="$PROJECT_DIR$/Blind75/String/palindromicSubstrings.py" />
+        <option value="$PROJECT_DIR$/Blind75/String/encodeAndDecodeStrings.py" />
+        <option value="$PROJECT_DIR$/Blind75/Tree/maximumDepthOfBinaryTree.py" />
+        <option value="$PROJECT_DIR$/Blind75/Tree/sameTree.py" />
+        <option value="$PROJECT_DIR$/Blind75/Tree/invertBinaryTree.py" />
+        <option value="$PROJECT_DIR$/Blind75/Tree/binaryTreeMaximumPathSum.py" />
+        <option value="$PROJECT_DIR$/Blind75/Tree/BTLevelOrderTraversal.py" />
       </list>
     </option>
   </component>
@@ -185,10 +225,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1190" />
-    <option name="width" value="1222" />
-    <option name="height" value="1285" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -196,6 +236,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,13 +247,18 @@
             <path>
               <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTree" type="462c0819:PsiDirectoryNode" />
+              <item name="Blind75" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Algorithms" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Algorithms" type="462c0819:PsiDirectoryNode" />
+              <item name="Blind75" type="462c0819:PsiDirectoryNode" />
+              <item name="Tree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,11 +270,14 @@
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Mikhail\Algorithms\BinarySearch\Step1" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Mikhail\Algorithms" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Mikhail\Algorithms\DynamicProgramming" />
+      <recent name="C:\Users\Mikhail\Algorithms" />
+      <recent name="C:\Users\Mikhail\Algorithms\Graphs" />
+      <recent name="C:\Users\Mikhail\Algorithms\BinarySearch\Step1" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -243,8 +292,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.equation">
-    <configuration name="ChildrenParty" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Problem9">
+    <configuration name="Problem9" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,18 +301,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinarySearch/Step2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Yandex" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinarySearch/Step2/ChildrenParty.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Yandex/Problem9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Rectangles" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="justEatIt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,18 +320,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinarySearch/Step2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinarySearch/Step2/Rectangles.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/justEatIt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Ropes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="kthSmallestElement" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -290,18 +339,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinarySearch/Step2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinarySearch/Step2/Ropes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/kthSmallestElement.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="VerySimpleProblem" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="numberOfSteps" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -309,18 +358,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinarySearch/Step2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinarySearch/Step2/VerySimpleProblem.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/numberOfSteps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="equation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="sameDifferences" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Algorithms" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -328,31 +377,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BinarySearch/Step2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Arrays" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BinarySearch/Step2/equation.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Arrays/sameDifferences.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.Rectangles" />
-      <item itemvalue="Python.Ropes" />
-      <item itemvalue="Python.VerySimpleProblem" />
-      <item itemvalue="Python.ChildrenParty" />
-      <item itemvalue="Python.equation" />
+      <item itemvalue="Python.justEatIt" />
+      <item itemvalue="Python.sameDifferences" />
+      <item itemvalue="Python.kthSmallestElement" />
+      <item itemvalue="Python.numberOfSteps" />
+      <item itemvalue="Python.Problem9" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.equation" />
-        <item itemvalue="Python.ChildrenParty" />
-        <item itemvalue="Python.VerySimpleProblem" />
-        <item itemvalue="Python.Ropes" />
-        <item itemvalue="Python.Rectangles" />
+        <item itemvalue="Python.Problem9" />
+        <item itemvalue="Python.numberOfSteps" />
+        <item itemvalue="Python.kthSmallestElement" />
+        <item itemvalue="Python.sameDifferences" />
+        <item itemvalue="Python.justEatIt" />
       </list>
     </recent_temporary>
   </component>
@@ -369,32 +418,41 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <frame x="-7" y="0" width="974" height="1039" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="TODO" order="5" sideWeight="0.4989059" visible="true" weight="0.3296582" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5010941" side_tool="true" weight="0.47298786" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="9" />
-      <window_info anchor="bottom" id="Run" order="12" weight="0.25857142" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4989059" weight="0.32857144" />
+      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.4989059" weight="0.32751092" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.4989059" weight="0.34825328" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4989059" weight="0.32857144" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22818792" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5028653" visible="true" weight="0.27899343" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="SciView" order="4" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.39714286" />
+      <window_info id="Favorites" order="2" sideWeight="0.49713466" side_tool="true" weight="0.34245077" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39628822" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -412,360 +470,364 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="5" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step2/VerySimpleProblem.py">
+    <entry file="file://$PROJECT_DIR$/Blind75/DynamicProgramming/houseRobber.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="27" lean-forward="true" selection-end-line="16" selection-end-column="10" />
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step2/ChildrenParty.py">
+    <entry file="file://$PROJECT_DIR$/Blind75/DynamicProgramming/houseRobber2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/DynamicProgramming/decodeWays.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/DynamicProgramming/uniquePaths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/DynamicProgramming/jumpGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
           <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deque.py">
+    <entry file="file://$PROJECT_DIR$/Blind75/Binary/sumOfTwoIntegers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/goblin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="58" column="8" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fishers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2196">
-          <caret line="122" column="43" selection-start-line="122" selection-start-column="43" selection-end-line="127" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step1/binarySearch.py">
+    <entry file="file://$PROJECT_DIR$/Blind75/Binary/numberOf1Bits.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
+          <caret column="48" lean-forward="true" selection-start-column="48" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step1/binarySearchLeft.py">
+    <entry file="file://$PROJECT_DIR$/Blind75/Binary/countingBits.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Binary/missingNumber.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret selection-end-line="9" />
+          <caret column="46" lean-forward="true" selection-start-column="46" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step1/binarySearchRight.py">
+    <entry file="file://$PROJECT_DIR$/Blind75/Binary/reverseBits.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="18" selection-end-line="9" />
+        <state relative-caret-position="51">
+          <caret line="3" column="34" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step1/fastSearch.py">
+    <entry file="file://$PROJECT_DIR$/Blind75/Graph/cloneGraph.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+        <state relative-caret-position="17">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step2/Rectangles.py">
+    <entry file="file://$PROJECT_DIR$/Blind75/Graph/courseSchedule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="8" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goblin2deque.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step2/Ropes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deque.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goblin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="58" column="8" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goblin2deque.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fishers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1872">
-          <caret line="104" column="15" selection-end-line="127" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deque.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goblin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="58" column="8" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goblin2deque.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fishers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1872">
-          <caret line="104" column="15" lean-forward="true" selection-end-line="127" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="60" column="21" selection-start-line="60" selection-start-column="21" selection-end-line="60" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/deque.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="33" column="20" selection-start-line="33" selection-start-column="20" selection-end-line="33" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goblin2deque.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/goblin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="58" column="8" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/fishers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2074">
-          <caret line="122" column="43" selection-start-line="122" selection-start-column="43" selection-end-line="127" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step1/binarySearchLeft.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step1/binarySearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step1/binarySearchRight.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step1/fastSearch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step2/VerySimpleProblem.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="27" selection-end-line="16" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step2/ChildrenParty.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="24" selection-end-line="37" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step2/Rectangles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step2/Ropes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="15" selection-end-line="20" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinarySearch/Step2/equation.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/balancedBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/countGoodNodesInBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/uniqueBST.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/pathSum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/mergeBinaryTrees.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/invertBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/convertSortedArrayToBST.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/binaryTreeLevelOrderTraversal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
+        <state relative-caret-position="442">
           <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/binaryTreeRightSideView.py">
+    <entry file="file://$PROJECT_DIR$/Blind75/Graph/pacificAtlanticWaterFlow.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="63" lean-forward="true" selection-start-column="63" selection-end-column="63" />
+        <state relative-caret-position="510">
+          <caret line="30" column="67" selection-start-line="30" selection-start-column="67" selection-end-line="30" selection-end-column="67" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/kthSmallestElementInBST.py">
+    <entry file="file://$PROJECT_DIR$/Blind75/Graph/numberOfIslands.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="66" selection-start-column="66" selection-end-column="66" />
+        <state relative-caret-position="340">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BinaryTree/binaryTreeMaximumPathSum.py">
+    <entry file="file://$PROJECT_DIR$/Blind75/Graph/alienDictionary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Graph/numberOfConnectedComponentsInAnUndirectedGraph.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Interval/meetingRooms2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Interval/meetingRooms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Interval/nonOverlappingIntervals.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="65" selection-start-column="65" selection-end-column="65" />
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Interval/mergeIntervals.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Interval/insertInterval.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="38" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Heap/findMedianFromDataStream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Heap/topKFrequentElements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="71" selection-start-line="4" selection-start-column="71" selection-end-line="4" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Heap/mergeKSortedLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Graph/graphValidTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Graph/longestConsecutiveSequence.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/LinkedList/reverseLinkedList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/LinkedList/linkedListCycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/LinkedList/mergeTwoSortedLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/LinkedList/mergeKSortedLists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/LinkedList/removeNthNodeFromEndOfList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/LinkedList/reorderList.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Matrix/setMatrixZeroes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Matrix/spiralMatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Matrix/rotateImage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="44" selection-start-column="44" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Matrix/wordSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/String/longestSubstringWithoutRepeatingCharacters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/String/longestRepeatingCharacterReplacement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/String/minimumWindowSubstring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="44" selection-start-line="1" selection-start-column="44" selection-end-line="1" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/String/validAnagram.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/String/groupAnagrams.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/String/validParentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/String/validPalindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/String/longestPalindromicSubstring.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/String/palindromicSubstrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/String/encodeAndDecodeStrings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Tree/maximumDepthOfBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="103" selection-start-line="9" selection-start-column="103" selection-end-line="9" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Tree/sameTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="20" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Tree/invertBinaryTree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Tree/binaryTreeMaximumPathSum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Blind75/Tree/BTLevelOrderTraversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="13" lean-forward="true" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
         </state>
       </provider>
     </entry>
